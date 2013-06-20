@@ -1,4 +1,4 @@
-SampleStockApp
+Sample Stock App
 ==============
 
 Sample Stocks Application
